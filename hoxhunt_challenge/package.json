@@ -1,0 +1,14 @@
+{
+  "name": "hoxhunt_challenge",
+  "version": "1.0.0",
+  "description": "Hoxhunt Summer job 2021 challenge",
+  "main": "hoxhunt.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Miska Tammenpää",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
