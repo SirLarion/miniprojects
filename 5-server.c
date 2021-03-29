@@ -16,9 +16,8 @@
 
 int create_listener(int listen_port)
 {
-    struct sockaddr_in6 servaddr6, cliaddr6;
+    struct sockaddr_in6 servaddr6;
     int listenfd;
-    socklen_t len;
 
     // luodaan kuunteleva pistoke
     if ((listenfd = socket(AF_INET6, SOCK_STREAM, 0)) < 0) {
@@ -53,14 +52,14 @@ int write_block(int sockfd, uint32_t blockSize)
     while((n = write(sockfd, &buf[total], blockSize-total)) > 0) {
         if(n < 0){
             perror("read error");
-            return 1;
+            return -1;
         }
         total += n;
     }
     printf("wrote %d bytes\n", total);
 
     free(buf);
-    return 0;
+    return 1;
 }
 
 int initial()
@@ -110,6 +109,8 @@ int initial()
 
 int main()
 {
+    signal(SIGPIPE, SIG_IGN);
+
     int connfd;
     int sockfd = initial();
 
@@ -171,8 +172,6 @@ int main()
             }
             printf("read %d bytes\n", n);
             write_block(connfd, num);
-            // DEL
-            break;
         }
 
         close(connfd);
