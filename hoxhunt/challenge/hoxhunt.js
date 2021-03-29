@@ -95,10 +95,6 @@ const countCriminals = (emails) => {
     return count;
 }
 
-const testEmails = [
-    "per.pittman@gringottsbank.com",
-    "atytden.tected@dingel.dongel"
-];
 
 const emails = [
   "peter.pittman@taitos.com",
@@ -1104,4 +1100,3 @@ const emails = [
 ];
 
 console.log(countCriminals(emails));
-//console.log(countCriminals(testEmails));
