@@ -168,7 +168,7 @@ int main()
         while(1) {
             uint32_t num;
             printf("READING BLOCK SIZE\n");
-            if((n = read(connfd, &num, sizeof(uint32_t))) < 0) {
+            if((n = read(connfd, &num, sizeof(uint32_t))) <= 0) {
                 break;
             }
             printf("read %d bytes\n", n);
@@ -178,8 +178,6 @@ int main()
 
         close(connfd);
         close(listenfd);
-        // DEL
-        break;
     }
 
     // Done
