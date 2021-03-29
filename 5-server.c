@@ -167,11 +167,13 @@ int main()
         
         while(1) {
             uint32_t num;
+            printf("READING BLOCK SIZE\n");
             if((n = read(connfd, &num, sizeof(uint32_t))) < 0) {
                 break;
             }
             printf("read %d bytes\n", n);
-            write_block(connfd, num);
+            printf("WRITING BLOCK OF %d BYTES\n", ntohl(num));
+            write_block(connfd, ntohl(num));
         }
 
         close(connfd);
