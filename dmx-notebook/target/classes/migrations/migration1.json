@@ -1,0 +1,9 @@
+{
+    "topic_types": [
+        {
+            "value": "Colorcode",
+            "uri": "dmx.notebook.colorcode",
+            "dataTypeUri": "dmx.core.text"
+        }
+    ]
+}

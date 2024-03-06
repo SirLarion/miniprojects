@@ -1,0 +1,27 @@
+.start {
+
+}
+
+.start__playeroptions {
+
+}
+
+.start__players {
+    display: flex;
+}
+
+.start__playername {
+    padding: 0.7em;
+    background: #C7DBBC;
+}
+
+.start__playerinput {
+    background: none;
+    width: inherit;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}

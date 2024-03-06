@@ -1,0 +1,3 @@
+/* Override carousel controls' size due to overlap with HeroCard */
+.carousel-control-prev { width: 10% !important; }
+.carousel-control-next { width: 10% !important; }

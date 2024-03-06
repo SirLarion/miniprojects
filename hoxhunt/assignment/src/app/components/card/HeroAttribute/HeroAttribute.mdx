@@ -1,0 +1,45 @@
+---
+name: HeroAttribute
+---
+
+import { Playground, Props } from 'docz'
+import { HeroAttribute } from './index.tsx'
+
+# HeroAttribute
+
+## Description
+
+Container for a single attribute of a hero. Displays the icon and the value with the name 
+popping up as a tooltip when hovered over. Uses React Bootstrap overlays to achieve this.
+
+When noOverlay is set it displays the name without hovering over the icon.
+
+The icon is looked for in the 'public' folder of the project with the name '{name}.png' 
+so any picture works
+
+## Basic usage
+
+Default behaviour
+<Playground>
+    <div style={{width: "30px"}}>
+        <HeroAttribute name="fire" />
+    </div>
+</Playground>
+
+No overlay
+<Playground>
+    <div style={{width: "30px"}}>
+        <HeroAttribute name="fire" noOverlay />
+    </div>
+</Playground>
+
+Smaller icon
+<Playground>
+    <div style={{width: "30px"}}>
+        <HeroAttribute name="fire" small />
+    </div>
+</Playground>
+
+
+## Props
+<Props of={HeroAttribute} />

@@ -1,0 +1,1237 @@
+{
+  "config": {
+    "title": "Components",
+    "description": "Base project ",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {
+      "mode": "light",
+      "showPlaygroundEditor": true,
+      "linesToScrollEditor": 14
+    },
+    "separator": "-",
+    "typescript": true,
+    "port": 9001,
+    "indexHtml": "docz.html",
+    "public": "/public"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "home-assignment",
+            "depth": 1,
+            "value": "Home assignment"
+          },
+          {
+            "slug": "good-to-know",
+            "depth": 1,
+            "value": "Good to know"
+          },
+          {
+            "slug": "tracks",
+            "depth": 2,
+            "value": "Tracks"
+          },
+          {
+            "slug": "frontend",
+            "depth": 3,
+            "value": "Frontend"
+          },
+          {
+            "slug": "backend",
+            "depth": 3,
+            "value": "Backend"
+          },
+          {
+            "slug": "what-we-expect",
+            "depth": 2,
+            "value": "What we expect"
+          },
+          {
+            "slug": "what-we-dont-expect",
+            "depth": 2,
+            "value": "What we don't expect"
+          },
+          {
+            "slug": "returning-the-assignment",
+            "depth": 2,
+            "value": "Returning the assignment"
+          },
+          {
+            "slug": "scripts",
+            "depth": 2,
+            "value": "Scripts"
+          },
+          {
+            "slug": "docz",
+            "depth": 3,
+            "value": "Docz"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/Layout/Layout.mdx",
+      "value": {
+        "name": "Layout",
+        "id": "7c2ac480116477d714ec27a802dbbda1",
+        "filepath": "src/app/components/Layout/Layout.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/Layout.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-layout-layout",
+        "route": "/src-app-components-layout-layout",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "layout-elements",
+            "depth": 1,
+            "value": "Layout Elements"
+          },
+          {
+            "slug": "lines",
+            "depth": 2,
+            "value": "Lines"
+          },
+          {
+            "slug": "containers",
+            "depth": 2,
+            "value": "Containers"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/Typography/Typography.mdx",
+      "value": {
+        "name": "Typography",
+        "id": "cec3b0a0830962161609e29a748f9d95",
+        "filepath": "src/app/components/Typography/Typography.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Typography/Typography.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-typography-typography",
+        "route": "/src-app-components-typography-typography",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "typography",
+            "depth": 1,
+            "value": "Typography"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/card/HeroAttribute/HeroAttribute.mdx",
+      "value": {
+        "name": "HeroAttribute",
+        "id": "4906e911e4d0133c58398509c4356983",
+        "filepath": "src/app/components/card/HeroAttribute/HeroAttribute.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/HeroAttribute.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-card-hero-attribute-hero-attribute",
+        "route": "/src-app-components-card-hero-attribute-hero-attribute",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "heroattribute",
+            "depth": 1,
+            "value": "HeroAttribute"
+          },
+          {
+            "slug": "description",
+            "depth": 2,
+            "value": "Description"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "props",
+            "depth": 2,
+            "value": "Props"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/card/HeroCard/HeroCard.mdx",
+      "value": {
+        "name": "HeroCard",
+        "id": "359e48714ae9727334b69721046809f0",
+        "filepath": "src/app/components/card/HeroCard/HeroCard.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroCard/HeroCard.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-card-hero-card-hero-card",
+        "route": "/src-app-components-card-hero-card-hero-card",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "herocard",
+            "depth": 1,
+            "value": "HeroCard"
+          },
+          {
+            "slug": "description",
+            "depth": 2,
+            "value": "Description"
+          },
+          {
+            "slug": "props",
+            "depth": 2,
+            "value": "Props"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/card/HeroInfo/HeroInfo.mdx",
+      "value": {
+        "name": "HeroInfo",
+        "id": "fcdf0f95fb855156da897f4bf79d0fad",
+        "filepath": "src/app/components/card/HeroInfo/HeroInfo.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/HeroInfo.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-card-hero-info-hero-info",
+        "route": "/src-app-components-card-hero-info-hero-info",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "description",
+            "depth": 2,
+            "value": "Description"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "props",
+            "depth": 2,
+            "value": "Props"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/card/HeroStory/HeroStory.mdx",
+      "value": {
+        "name": "HeroStory",
+        "id": "d3bf5db645b2610dac5abd62e37193e5",
+        "filepath": "src/app/components/card/HeroStory/HeroStory.mdx",
+        "fullpath": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroStory/HeroStory.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-app-components-card-hero-story-hero-story",
+        "route": "/src-app-components-card-hero-story-hero-story",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "description",
+            "depth": 2,
+            "value": "Description"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "props",
+            "depth": 2,
+            "value": "Props"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/app/index.tsx",
+      "value": []
+    },
+    {
+      "key": "src/server/index.ts",
+      "value": []
+    },
+    {
+      "key": "src/app/components/Footer/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "Footer",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/Hero/index.tsx",
+      "value": []
+    },
+    {
+      "key": "src/app/components/Layout/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "VLine",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLDivElement) => void) | RefObject<HTMLDivElement>"
+              }
+            },
+            "height": {
+              "defaultValue": null,
+              "description": "",
+              "name": "height",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IVLine"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IVLine"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HLine",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLDivElement) => void) | RefObject<HTMLDivElement>"
+              }
+            },
+            "width": {
+              "defaultValue": null,
+              "description": "",
+              "name": "width",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IHLine"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IHLine"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "PaddedContainer",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLDivElement) => void) | RefObject<HTMLDivElement>"
+              }
+            },
+            "top": {
+              "defaultValue": null,
+              "description": "",
+              "name": "top",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IPadded"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IPadded"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "right": {
+              "defaultValue": null,
+              "description": "",
+              "name": "right",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IPadded"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IPadded"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "bottom": {
+              "defaultValue": null,
+              "description": "",
+              "name": "bottom",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IPadded"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IPadded"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "left": {
+              "defaultValue": null,
+              "description": "",
+              "name": "left",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IPadded"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IPadded"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "FlexContainer",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLDivElement) => void) | RefObject<HTMLDivElement>"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "Container",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLDivElement) => void) | RefObject<HTMLDivElement>"
+              }
+            },
+            "height": {
+              "defaultValue": null,
+              "description": "",
+              "name": "height",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IContainer"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IContainer"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "width": {
+              "defaultValue": null,
+              "description": "",
+              "name": "width",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                "name": "IContainer"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Layout/index.tsx",
+                  "name": "IContainer"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/Section/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "Section",
+          "methods": [],
+          "props": {
+            "heading": {
+              "defaultValue": null,
+              "description": "",
+              "name": "heading",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Section/index.tsx",
+                "name": "ISectionProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Section/index.tsx",
+                  "name": "ISectionProps"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            },
+            "paragraph": {
+              "defaultValue": null,
+              "description": "",
+              "name": "paragraph",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Section/index.tsx",
+                "name": "ISectionProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/Section/index.tsx",
+                  "name": "ISectionProps"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "string"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/TopBar/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "TopBar",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/Typography/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeadingOne",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLHeadingElement) => void) | RefObject<HTMLHeadingElement>"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeadingTwo",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLHeadingElement) => void) | RefObject<HTMLHeadingElement>"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeadingThree",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLHeadingElement) => void) | RefObject<HTMLHeadingElement>"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        },
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "Paragraph",
+          "methods": [],
+          "props": {
+            "ref": {
+              "defaultValue": null,
+              "description": "",
+              "name": "ref",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/react/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "((instance: HTMLParagraphElement) => void) | RefObject<HTMLParagraphElement>"
+              }
+            },
+            "theme": {
+              "defaultValue": null,
+              "description": "",
+              "name": "theme",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "any"
+              }
+            },
+            "as": {
+              "defaultValue": null,
+              "description": "",
+              "name": "as",
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/node_modules/@types/styled-components/ts3.6/index.d.ts",
+                  "name": "TypeLiteral"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "never"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/views/HeroIndex/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeroIndex",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/card/HeroAttribute/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeroAttribute",
+          "methods": [],
+          "props": {
+            "name": {
+              "defaultValue": null,
+              "description": "",
+              "name": "name",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                "name": "IHeroAttrProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                  "name": "IHeroAttrProps"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            },
+            "value": {
+              "defaultValue": null,
+              "description": "",
+              "name": "value",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                "name": "IHeroAttrProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                  "name": "IHeroAttrProps"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "number"
+              }
+            },
+            "noOverlay": {
+              "defaultValue": null,
+              "description": "",
+              "name": "noOverlay",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                "name": "IHeroAttrProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                  "name": "IHeroAttrProps"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "boolean"
+              }
+            },
+            "small": {
+              "defaultValue": null,
+              "description": "",
+              "name": "small",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                "name": "IHeroAttrProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroAttribute/index.tsx",
+                  "name": "IHeroAttrProps"
+                }
+              ],
+              "required": false,
+              "type": {
+                "name": "boolean"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/card/HeroCard/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeroCard",
+          "methods": [],
+          "props": {
+            "hero": {
+              "defaultValue": null,
+              "description": "",
+              "name": "hero",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroCard/index.tsx",
+                "name": "IHeroCardProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroCard/index.tsx",
+                  "name": "IHeroCardProps"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "HeroType"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/card/HeroInfo/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeroInfo",
+          "methods": [],
+          "props": {
+            "description": {
+              "defaultValue": null,
+              "description": "",
+              "name": "description",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                "name": "IHeroInfo"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                  "name": "IHeroInfo"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            },
+            "stats": {
+              "defaultValue": null,
+              "description": "",
+              "name": "stats",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                "name": "IHeroInfo"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                  "name": "IHeroInfo"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "Stats"
+              }
+            },
+            "skills": {
+              "defaultValue": null,
+              "description": "",
+              "name": "skills",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                "name": "IHeroInfo"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroInfo/index.tsx",
+                  "name": "IHeroInfo"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "Skill[]"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/card/HeroStory/index.tsx",
+      "value": [
+        {
+          "tags": {},
+          "description": "",
+          "displayName": "HeroStory",
+          "methods": [],
+          "props": {
+            "story": {
+              "defaultValue": null,
+              "description": "",
+              "name": "story",
+              "parent": {
+                "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroStory/index.tsx",
+                "name": "IHeroStoryProps"
+              },
+              "declarations": [
+                {
+                  "fileName": "/home/sirlarion/repos/hoxhunt_pre-assignment/src/app/components/card/HeroStory/index.tsx",
+                  "name": "IHeroStoryProps"
+                }
+              ],
+              "required": true,
+              "type": {
+                "name": "string"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

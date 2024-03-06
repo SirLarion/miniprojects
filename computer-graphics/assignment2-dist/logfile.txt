@@ -1,0 +1,14 @@
+* (979599e) 2021-10-08 13:51:07 +0300 <miska.tammenpaa@gmail.com>
+| update README
+* (326b044) 2021-10-08 13:42:06 +0300 <miska.tammenpaa@gmail.com>
+| finish A2 R5
+* (905f9eb) 2021-10-06 13:11:38 +0300 <miska.tammenpaa@gmail.com>
+| finish A2 R4
+* (cf19887) 2021-10-04 18:36:18 +0300 <miska.tammenpaa@gmail.com>
+| finish A2 R3
+* (934e2c1) 2021-10-04 16:46:14 +0300 <miska.tammenpaa@gmail.com>
+| finish A2 R2
+* (a78e603) 2021-10-04 15:42:45 +0300 <miska.tammenpaa@gmail.com>
+| finish A2 R1
+* (9152b10) 2021-10-04 08:21:37 +0300 <miska.tammenpaa@gmail.com>
+| A2 initial commit

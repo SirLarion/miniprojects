@@ -1,0 +1,1897 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GameBoard> should handle card deselection correctly 1`] = `
+<div>
+  <div
+    class="sc-hKgILt sc-jrAGrp Axa-Dd hvCXYO"
+  >
+    <h1
+      class="sc-pFZIQ jNNIWS"
+    >
+      Bongaa Laji!
+    </h1>
+    <div
+      class="sc-kEjbxe iZXUTs"
+    >
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GameBoard> should handle card revealing correctly 1`] = `
+<div>
+  <div
+    class="sc-hKgILt sc-jrAGrp Axa-Dd hvCXYO"
+  >
+    <h1
+      class="sc-pFZIQ jNNIWS"
+    >
+      Bongaa Laji!
+    </h1>
+    <div
+      class="sc-kEjbxe iZXUTs"
+    >
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GameBoard> should handle card selection correctly 1`] = `
+<div>
+  <div
+    class="sc-hKgILt sc-jrAGrp Axa-Dd hvCXYO"
+  >
+    <h1
+      class="sc-pFZIQ jNNIWS"
+    >
+      Bongaa Laji!
+    </h1>
+    <div
+      class="sc-kEjbxe iZXUTs"
+    >
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GameBoard> should match the standard snapshot when card shuffling is seeded 1`] = `
+<div>
+  <div
+    class="sc-hKgILt sc-jrAGrp Axa-Dd hvCXYO"
+  >
+    <h1
+      class="sc-pFZIQ jNNIWS"
+    >
+      Bongaa Laji!
+    </h1>
+    <div
+      class="sc-kEjbxe iZXUTs"
+    >
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species6_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species7_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species3_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species2_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species10_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species1_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species8_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species9_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/foreign/species12_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species4_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species11_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-jSgupP kwgFEy"
+        >
+          <div
+            class="sc-gKsewC llIhqD"
+          >
+            <div
+              class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+            >
+              <img
+                alt="species"
+                class="sc-fubCfw cHUIOF"
+                src="/native/species5_front.jpg"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

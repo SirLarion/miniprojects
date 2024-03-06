@@ -1,0 +1,18 @@
+* (ca6ad5d) 2021-11-17 21:39:21 +0200 <miska.tammenpaa@gmail.com>
+| update README
+* (335dc00) 2021-11-17 21:23:24 +0200 <miska.tammenpaa@gmail.com>
+| finish EXTRA rk4
+* (27bacd8) 2021-11-17 19:45:19 +0200 <miska.tammenpaa@gmail.com>
+| update README
+* (6aa614d) 2021-11-17 19:43:01 +0200 <miska.tammenpaa@gmail.com>
+| finish A4 R5
+* (49bd721) 2021-11-16 13:30:29 +0200 <miska.tammenpaa@gmail.com>
+| finish A4 R4
+* (c2f81ee) 2021-11-09 16:46:02 +0200 <miska.tammenpaa@gmail.com>
+| finish A4 R3
+* (060bb91) 2021-11-09 16:33:50 +0200 <miska.tammenpaa@gmail.com>
+| finish A4 R2
+* (bae86e0) 2021-11-09 15:32:56 +0200 <miska.tammenpaa@gmail.com>
+| finish A4 R1
+* (c8a6a20) 2021-11-09 09:27:32 +0200 <miska.tammenpaa@gmail.com>
+| A4 initial commit

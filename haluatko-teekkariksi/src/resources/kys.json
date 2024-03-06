@@ -1,0 +1,167 @@
+{
+    "fin": [
+        {
+            "Q": "Miten teekkari pyytää Ruotsissa apua päänsärkyyn?",
+            "A": "“Saisinko Buranan?”",
+            "B": "“Kan jag få en Burana?”",
+            "C": "Oikea teekkari ei koe\n päänsärkyä",
+            "D": "Joku muu",
+            "correct": "D"
+        },
+        {
+            "Q": "Missä ei voi opiskella DI:ksi?",
+            "A": "Helsingissä",
+            "B": "Porissa",
+            "C": "Kuopiossa",
+            "D": "Joensuussa",
+            "correct": "A"
+        },
+        {
+            "Q": "Mikä näistä ei ole AYY:n yhdistys?",
+            "A": "Akateeminen jaloviinaseura\n Jallu",
+            "B": "Krokettikonklaavi",
+            "C": "Teekkariampujat ry",
+            "D": "Excalibur roolipelikerho",
+            "correct": "D"
+        },
+        {
+            "Q": "Missä TiK käy perinteisesti vuosittain?",
+            "A": "Riikassa",
+            "B": "Pietarissa",
+            "C": "Leningradissa",
+            "D": "Hangossa",
+            "correct": "C"
+        },
+        {
+            "Q": "Kuka näistä on joutunut puukotuksen kohteeksi Otaniemessä?",
+            "A": "Kerttu Pollari-Malmia",
+            "B": "Esa Saarista",
+            "C": "Ragnar Freij-Hollantia",
+            "D": "Linus Torvaldsia",
+            "correct": "B"
+        },
+        {
+            "Q": "Mikä näistä ei ole DI-maisteriohjelma?",
+            "A": "Life Sciences",
+            "B": "Kiinteistötalous",
+            "C": "Organisation Design and\n Leadership",
+            "D": "Creative Sustainability",
+            "correct": "D"
+        },
+        {
+            "Q": "Milloin X-Burger on auki?",
+            "A": "Aina",
+            "B": "Sunnuntaisin klo 18.00-00.00",
+            "C": "Silloin, kun tarvitsee",
+            "D": "Joka päivä klo 10.30-00.00",
+            "correct": "B"
+        },
+        {
+            "Q": "Mikä on Aalto Space?",
+            "A": "Fysiikanlaitkosen astronomian\nja avaruusteknologian osasto",
+            "B": "Alvar Aalto -säätiön rahoittama\n ohjelma arkkitehtuurin opiskelijoille",
+            "C": "Alueenvalloitussimulaattori Aallon\n opiskelijoille",
+            "D": "Aaltonaut-sivuaineen projektikurssi",
+            "correct": "C"
+        },
+        {
+            "Q": "Kuka voittaa ensi vuoden Otatarhan Ajot?",
+            "A": "Oikeasti kaikki osallistujat voittajia",
+            "B": "Ei voi tietää",
+            "C": "Tietokilta, sillä Tietokilta voittaa\njoka toinen vuosi",
+            "D": "Nopein joukkue",
+            "correct": "B"
+        },
+        {
+            "Q": "Mikä on Wappu?",
+            "A": "Never stop the madness\nja kohta vedetään taas! :D",
+            "B": "Elämäntapa",
+            "C": "Karlo Gambinan synnyinpäivä",
+            "D": "Wappu on peruttu",
+            "correct": "B"
+        }
+    ],
+    "eng": [
+        {
+            "Q": "How does a teekkari ask\n for help with a headach in Sweden?",
+            "A": "“May I have Burana, please?”",
+            "B": "“Kan jag få en Burana?”",
+            "C": "A real teekkari does not experience\n headaches",
+            "D": "Something else",
+            "correct": "D"
+        },
+        {
+            "Q": "In which city you can't study to become a M.Sc (Tech)?",
+            "A": "Helsinki",
+            "B": "Pori",
+            "C": "Kuopio",
+            "D": "Joensuu",
+            "correct": "A"
+        },
+        {
+            "Q": "Which of these is not an association of AYY?",
+            "A": "Akateeminen jaloviinaseura\n Jallu\nAcademic Fine Wine Association",
+            "B": "Krokettikonklaavi\nCroquet club",
+            "C": "Teekkariampujat ry\n'Teekkari' shooters",
+            "D": "Excalibur roleplaying club",
+            "correct": "D"
+        },
+        {
+            "Q": "Where does TiK traditionally go to every year",
+            "A": "Riga",
+            "B": "St. Petersburg",
+            "C": "Leningrad",
+            "D": "Hanko",
+            "correct": "C"
+        },
+        {
+            "Q": "Which of these people has been stabbed in Otaniemi?",
+            "A": "Kerttu Pollari-Malmi",
+            "B": "Esa Saarinen",
+            "C": "Ragnar Freij-Hollanti",
+            "D": "Linus Torvalds",
+            "correct": "B"
+        },
+        {
+            "Q": "Which of these is not a M.Sc (Tech) master's program?",
+            "A": "Life Sciences",
+            "B": "Real estate economics",
+            "C": "Organisation Design and\n Leadership",
+            "D": "Creative Sustainability",
+            "correct": "D"
+        },
+        {
+            "Q": "When is X-Burger open?",
+            "A": "Always",
+            "B": "Sundays between 18:00-00:00",
+            "C": "Whenever you need",
+            "D": "Every day from 10:30 to 00:00",
+            "correct": "B"
+        },
+        {
+            "Q": "What is Aalto Space?",
+            "A": "The Department of Astronomy and Space Technology at Aalto",
+            "B": "A program funded by the Alvar Aalto Foundation\n for architecture students",
+            "C": "An area conquest simulator for Aalto\n students",
+            "D": "Project cource in the 'Aaltonaut' minor",
+            "correct": "C"
+        },
+        {
+            "Q": "Who will win next year's Otatarhan Ajot?",
+            "A": "All participants are winners",
+            "B": "You can't say",
+            "C": "Tietokilta, because Tietokilta\n wins every other year",
+            "D": "The fastest team",
+            "correct": "B"
+        },
+        {
+            "Q": "What is Wappu?",
+            "A": "Never stop the madness\nja kohta vedetään taas! :D",
+            "B": "It's a life style",
+            "C": "Karlo Gambina's birthday",
+            "D": "Wappu has been canceled",
+            "correct": "B"
+        }
+    ]
+
+}

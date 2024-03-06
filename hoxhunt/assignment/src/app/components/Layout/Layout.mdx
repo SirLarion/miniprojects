@@ -1,0 +1,65 @@
+---
+name: Layout
+---
+
+import { Playground, Props } from 'docz'
+import * as Layout from './index.tsx'
+
+# Layout Elements
+
+## Lines 
+
+VLine: Vertical line, 
+HLine: Horizontal line
+
+<Playground>
+
+    <Layout.PaddedContainer bottom="20px">
+        <Layout.HLine width="50px" />
+    </Layout.PaddedContainer>
+
+    <Layout.PaddedContainer bottom="20px">
+        <Layout.HLine width="60px" />
+    </Layout.PaddedContainer>
+
+    <Layout.PaddedContainer bottom="20px">
+        <Layout.HLine width="75px" />
+    </Layout.PaddedContainer>
+
+    <Layout.PaddedContainer bottom="20px">
+        <Layout.HLine width="100px" />
+    </Layout.PaddedContainer>
+
+    <Layout.FlexContainer>
+
+        <Layout.PaddedContainer right="20px">
+            <Layout.VLine height="50px" />
+        </Layout.PaddedContainer>
+
+        <Layout.PaddedContainer right="20px">
+            <Layout.VLine height="60px" />
+        </Layout.PaddedContainer>
+
+        <Layout.PaddedContainer right="20px">
+            <Layout.VLine height="75px" />
+        </Layout.PaddedContainer>
+
+        <Layout.PaddedContainer right="20px">
+            <Layout.VLine height="100px" />
+        </Layout.PaddedContainer>
+
+    </Layout.FlexContainer>
+
+</Playground>
+
+## Containers
+
+PaddedContainer: Container with padding defined in props
+
+<Props of={Layout.PaddedContainer} />
+
+FlexContainer: Container with display: flex and items aligned in the center
+
+Container: General purpose container with width and height defined in props
+
+<Props of={Layout.Container} />

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "Q": "How does a teekkari ask\n for help with a headach in Sweden?",
+            "A": "“May I have Burana, please?”",
+            "B": "“Kan jag få en Burana?”",
+            "C": "A real teekkari does not experience\n headaches",
+            "D": "Something else",
+            "correct": "D"
+        },
+        {
+            "Q": "In which city you can't study to become a M.Sc (Tech)?",
+            "A": "Helsinki",
+            "B": "Pori",
+            "C": "Kuopio",
+            "D": "Joensuu",
+            "correct": "A"
+        },
+        {
+            "Q": "Which of these is not an association of AYY?",
+            "A": "Akateeminen jaloviinaseura\n Jallu\nAcademic Fine Wine Association",
+            "B": "Krokettikonklaavi\nCroquet club",
+            "C": "Teekkariampujat ry\n'Teekkari' shooters",
+            "D": "Excalibur roleplaying club",
+            "correct": "D"
+        },
+        {
+            "Q": "Where does TiK traditionally go every year",
+            "A": "In Riga",
+            "B": "In St. Petersburg",
+            "C": "In Leningrad",
+            "D": "In Hanko",
+            "correct": "C"
+        },
+        {
+            "Q": "Which of these people has been stabbed in Otaniemi?",
+            "A": "Kerttu Pollari-Malmi",
+            "B": "Esa Saarinen",
+            "C": "Ragnar Freij-Hollanti",
+            "D": "Linus Torvalds",
+            "correct": "B"
+        },
+        {
+            "Q": "Which of these is not a M.Sc (Tech) master's program?",
+            "A": "Life Sciences",
+            "B": "Real estate economics",
+            "C": "Organisation Design and\n Leadership",
+            "D": "Creative Sustainability",
+            "correct": "D"
+        },
+        {
+            "Q": "When is X-Burger open?",
+            "A": "Always",
+            "B": "Sundays between 18:00-00:00",
+            "C": "Whenever you need",
+            "D": "Every day from 10:30 to 00:00",
+            "correct": "B"
+        },
+        {
+            "Q": "What is Aalto Space?",
+            "A": "The Department of Astronomy and Space Technology at Aalto",
+            "B": "A program funded by the Alvar Aalto Foundation\n for architecture students",
+            "C": "Area conquest simulator for Aalto\n students",
+            "D": "Project cource in the 'Aaltonaut' minor",
+            "correct": "C"
+        },
+        {
+            "Q": "Who will win next year's Otatarhan Ajot?",
+            "A": "All participants are winners",
+            "B": "You can't say",
+            "C": "Tietokilta, because Tietokilta\n wins every other year",
+            "D": "The fastest team",
+            "correct": "B"
+        },
+        {
+            "Q": "What is Wappu?",
+            "A": "Never stop the madness\nja kohta vedetään taas! :D",
+            "B": "It's a life style",
+            "C": "Karlo Gambina's birthday",
+            "D": "Wappu has been canceled",
+            "correct": "B"
+        }
+    ]
+}

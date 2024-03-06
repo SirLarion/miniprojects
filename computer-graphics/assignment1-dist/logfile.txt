@@ -1,0 +1,28 @@
+* (c1288a3) 2021-09-25 14:17:23 +0300 <miska.tammenpaa@gmail.com>
+| update A1 README
+* (f2619e5) 2021-09-25 14:05:34 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 extra: viewport perspective + fullscreen toggle
+* (52ece69) 2021-09-25 11:46:50 +0300 <miska.tammenpaa@gmail.com>
+| implement A1 ux improvements
+* (4695855) 2021-09-25 11:36:04 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 extra: clamp gl-viewport size
+* (cb99466) 2021-09-25 11:08:55 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 extra: camera movement
+* (0aa84f0) 2021-09-25 11:08:42 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 extra: animation, + smooth transform controls
+* (32b894a) 2021-09-24 16:52:03 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 extra: scaling & rotation controls
+* (c2e14db) 2021-09-24 13:55:01 +0300 <miska.tammenpaa@gmail.com>
+| fix A1 R1 translation along z-axis
+* (ab5211f) 2021-09-24 13:49:59 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 R4
+* (dc447a7) 2021-09-20 19:15:25 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 R3
+* (7ccdb29) 2021-09-20 18:46:44 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 R2
+* (c930d94) 2021-09-20 18:16:15 +0300 <miska.tammenpaa@gmail.com>
+| finish A1 R1
+* (2948d96) 2021-09-18 20:38:42 +0300 <miska.tammenpaa@gmail.com>
+| A1 initial commit
+* (623bfa2) 2021-09-18 20:06:21 +0300 <noreply@github.com>
+  Initial commit

@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Artifact-Id: dmx-notebook
+Bnd-LastModified: 1603444328490
+Build-Jdk: 1.8.0_265
+Built-By: sirlarion
+Bundle-Activator: systems.dmx.notebook.NotebookPlugin
+Bundle-Description: Parent POM for all DMX plugins (= OSGi bundles). 3 f
+ eatures:          - declares the `dmx-core` dependency as needed by all
+  DMX plugins          - preconfigures the DMX default bundle activator 
+          - derives the hot deployment feature
+Bundle-License: https://www.gnu.org/licenses/agpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: DMX Notebook
+Bundle-SymbolicName: systems.dmx.notebook
+Bundle-Version: 0.0.1
+Created-By: Apache Maven Bundle Plugin
+Export-Package: systems.dmx.notebook.migrations;uses:="systems.dmx.core.
+ service";version="0.0.1",systems.dmx.notebook;uses:="systems.dmx.core.o
+ sgi";version="0.0.1"
+Import-Package: systems.dmx.core;version="[5.0,6)",systems.dmx.core.mode
+ l;version="[5.0,6)",systems.dmx.core.osgi;version="[5.0,6)",systems.dmx
+ .core.service;version="[5.0,6)"
+Tool: Bnd-2.1.0.20130426-122213

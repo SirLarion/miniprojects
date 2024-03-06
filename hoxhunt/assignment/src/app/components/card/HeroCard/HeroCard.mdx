@@ -1,0 +1,50 @@
+---
+name: HeroCard
+---
+
+import { Props } from 'docz'
+import { HeroCard } from './index.tsx'
+
+# HeroCard
+
+## Description
+
+Container for the information of one 'hero'. Displays an image of the hero along with a description, backstory and the skills and attributes of the hero.
+
+<img src='/public/screenshots/porcu-card.png' />
+
+## Props
+<Props of={HeroCard} />
+
+where HeroType is:
+```
+type HeroType = {
+    name: string;
+    imgUrl: string;
+    description: string;
+    backStory: string;
+    attributes: Stats;
+    skills: Skill[];
+}   
+```
+and Stats and Skill are:
+
+```
+type Stats = {
+    agility: number;
+    healthpoints: number;
+    intelligence: number;
+    mana: number;
+    resistance: string;
+    speed: number;
+    stamina: number;
+    strength: number;
+    weakness: string;
+}
+
+type Skill = {
+    name: string;
+    element: string;
+    damage: number;
+}
+```

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SpeciesCard> should match the standard snapshot 1`] = `
+<div>
+  <div
+    class="sc-jSgupP kwgFEy"
+  >
+    <div
+      class="sc-gKsewC llIhqD"
+    >
+      <div
+        class="sc-hKgILt sc-iBPRYJ Axa-Dd YMIft"
+      >
+        <img
+          alt="species"
+          class="sc-fubCfw cHUIOF"
+          src="/native/species3_front.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

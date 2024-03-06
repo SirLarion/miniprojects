@@ -1,0 +1,52 @@
+---
+name: HeroInfo
+---
+
+import { Playground, Props } from 'docz'
+import { HeroInfo } from './index.tsx'
+
+## Description
+Container for hero description, attributes and skills. Displays attributes and skills
+in a neat 'grid' with icons showing attribute and damage types.
+
+<img src="/public/screenshots/porcu-info.png" />
+
+
+## Basic usage
+<Playground>
+    <div style={{height: "500px"}}>
+    <HeroInfo
+        description="General description about hero goes here"
+        stats={
+            {
+                agility: 10,
+                healthpoints: 20,
+                intelligence: 30,
+                mana: 40,
+                resistance: "Fire",
+                speed: 50,
+                stamina: 60,
+                strength: 70,
+                weakness: "Psychic"
+            }
+        }
+        skills={
+            [
+                {
+                    name: "Skill One",
+                    element: "Physical",
+                    damage: "123"
+                },
+                {
+                    name: "Skill Two",
+                    element: "Water",
+                    damage: "456"
+                }
+            ]
+        }
+    /> 
+    </div>
+</Playground>
+
+## Props
+<Props of={HeroInfo} />
