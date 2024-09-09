@@ -1,0 +1,100 @@
+{
+  "PowerTransferMap": [
+    {
+      "Key": "Norway",
+      "Value": -91.91,
+      "MaxImport": 100.0,
+      "MaxExport": 100.0,
+      "IsExport": false
+    },
+    {
+      "Key": "Russia",
+      "Value": null,
+      "MaxImport": 0.0,
+      "MaxExport": 0.0,
+      "IsExport": false
+    },
+    {
+      "Key": "Estonia",
+      "Value": 62.325,
+      "MaxImport": 1016.0,
+      "MaxExport": 1016.0,
+      "IsExport": true
+    },
+    {
+      "Key": "SEAland",
+      "Value": 29.6,
+      "MaxImport": 80.0,
+      "MaxExport": 80.0,
+      "IsExport": true
+    },
+    {
+      "Key": "SE3",
+      "Value": 98.1,
+      "MaxImport": 1200.0,
+      "MaxExport": 1200.0,
+      "IsExport": true
+    },
+    {
+      "Key": "SE1",
+      "Value": -300.19,
+      "MaxImport": 1200.0,
+      "MaxExport": 1100.0,
+      "IsExport": false
+    }
+  ],
+  "Temperatures": {
+    "Helsinki": 21.433,
+    "Oulu": 22.219,
+    "Jyväskylä": 21.508,
+    "Rovaniemi": 20.0
+  },
+  "Urls": {
+    "ConsumptionUrl": "/sahkomarkkinat/sahkojarjestelman-tila/kulutus-ja-tuotanto-suomessa/",
+    "ProductionUrl": "/sahkomarkkinat/sahkojarjestelman-tila/kulutus-ja-tuotanto-suomessa/",
+    "NetImportExportUrl": "/sahkomarkkinat/sahkojarjestelman-tila/kulutus-ja-tuotanto-suomessa/",
+    "PowerTransferUrl": "/sahkomarkkinat/sahkojarjestelman-tila/pohjoismainen-sahkojarjestelman-tila/",
+    "ProductionTypesUrl": "/sahkomarkkinainformaatio/co2/",
+    "PowerBalanceUrl": "/sahkomarkkinat/sahkojarjestelman-tila/tehotasapaino/",
+    "ElectricityPriceInFinlandUrl": "/sahkomarkkinat/sahkojarjestelman-tila/sahkon-hinta-suomessa/",
+    "LastOrderedUpRegulationBidUrl": "/sahkomarkkinat/sahkojarjestelman-tila/ylos--ja-alassaadon-hinta/",
+    "LastOrderedDownRegulationBidUrl": "/sahkomarkkinat/sahkojarjestelman-tila/ylos--ja-alassaadon-hinta/",
+    "PowerSystemStatusUrl": "/sahkomarkkinat/sahkojarjestelman-tila/jarjestelman-tilan-kuvaukset/",
+    "ShortagePageUrl": "/kantaverkko/tietoa-sahkopulasta/",
+    "Co2InfoUrl": "/sahkomarkkinainformaatio/co2/"
+  },
+  "InfoTexts": {
+    "ConsumptionInfo": "Sähkön kokonaiskulutus Suomessa, joka on laskettu sähkön tuotannon, tuonnin ja viennin reaaliaika-arvojen perusteella.",
+    "ProductionInfo": "Sähkön kokonaistuotanto Suomessa. Perustuu tuotantolaitosten reaaliaikamittauksiin ja laskennallisiin arvioihin.",
+    "ImportExportInfo": "Sähkön tuonnin ja viennin reaaliaikamittausten nettoarvo. Etumerkkisääntö: tuonti -, vienti +",
+    "ElectricityPriceInfo": "Sähkön vuorokausimarkkinoiden Suomen aluehinta kuluvalta tunnilta ilman veroja ja sähkön siirtokustannuksia.",
+    "Co2Info": "Suomen sähköjärjestelmän reaaliaikainen kulutetun sähkön CO₂-päästöarvio. Laskenta perustuu reaaliaikaisiin tuotanto-, tuonti- ja vientitietoihin sekä tuotantomuotokohtaisiin päästökertoimiin.",
+    "StatusInfo": "Voimajärjestelmän käyttötilanne, jonka vaihtoehdot ovat: normaali, heikentynyt, vaarassa, häiriö tai häiriön käytönpalautus.",
+    "ShortageInfo": "Säästä sähköä. Lisätietoa: www.fingrid.fi/sahkopula",
+    "PowerTransferInfo": null
+  },
+  "Consumption": 8405.8,
+  "Production": 8184.6,
+  "NetImportExport": -229.91,
+  "HydroPower": 860.99,
+  "NuclearPower": 2303.5,
+  "CogenerationDistrictHeating": 93.0,
+  "CogenerationIndustry": 831.17,
+  "WindPower": 3504.5,
+  "SolarPower": 555.8,
+  "OtherProduction": 37.0,
+  "PeakLoadPower": 0.1,
+  "ProductionSurplusDeficit": 399.1,
+  "ProductionSurplusDeficitCumulative": 169.05,
+  "InstantaneousFrequency": 50.031,
+  "TimeDeviation": 2.561,
+  "KineticEnergyNordic": 165.6,
+  "ElectricityPriceInFinland": 1.47,
+  "LastOrderedUpRegulationBid": null,
+  "LastOrderedDownRegulationBid": null,
+  "ConsumptionEmissionCo2": 17.32,
+  "ProductionEmissionCo2": 17.559,
+  "Status": 1,
+  "Shortage": 0,
+  "LastModified": "09.09.2024 14.33"
+}
