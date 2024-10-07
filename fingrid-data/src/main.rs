@@ -1,28 +1,27 @@
-use std::{env, 
-    io::{self, ErrorKind}
+use std::{
+    env,
+    io::{self, ErrorKind},
 };
 
-use serde::Deserialize;
 use dotenv::dotenv;
-use reqwest::header::{HeaderMap, HeaderValue, CONTENT_TYPE};
 use reqwest as req;
+use reqwest::header::{HeaderMap, HeaderValue, CONTENT_TYPE};
+use serde::Deserialize;
 
-pub mod error;
 pub mod constants;
+pub mod error;
 
-use error::*;
 use constants::*;
-use sqlx::{SqlitePool, Sqlite};
-
+use error::*;
+use sqlx::{Sqlite, SqlitePool};
 
 #[derive(Deserialize, Clone)]
 struct PowerTransferMapValue {
     #[serde(rename = "Key")]
     id: String,
     #[serde(rename = "Value")]
-    amount: Option<f32>
+    amount: Option<f32>,
 }
-
 
 #[derive(Deserialize)]
 struct ApiData {
@@ -53,9 +52,12 @@ struct ApiData {
 }
 
 fn load_env() -> Result<(), AppError> {
-    env::set_current_dir(FINGRID_ENV_PATH).map_err(|_| 
-        AppError::IoError(io::Error::new(ErrorKind::NotFound, "findgrid-data directory was not found"))
-    )?;
+    env::set_current_dir(FINGRID_ENV_PATH).map_err(|_| {
+        AppError::IoError(io::Error::new(
+            ErrorKind::NotFound,
+            "findgrid-data directory was not found",
+        ))
+    })?;
 
     dotenv().ok();
     Ok(())
@@ -90,25 +92,31 @@ async fn main() -> Result<(), AppError> {
 
     let data = serde_json::from_str::<ApiData>(res.as_str())?;
 
-    let import_se = data.transfer_map.clone()
+    let import_se = data
+        .transfer_map
+        .clone()
         .into_iter()
         .filter(|o| ["SEAland", "SE1", "SE3"].contains(&o.id.as_str()))
         .map(|o| o.amount)
         .sum::<Option<f32>>()
         .unwrap_or(0.0);
-    
-    let import_ee = data.transfer_map.clone()
+
+    let import_ee = data
+        .transfer_map
+        .clone()
         .into_iter()
         .find(|o| o.id == "Estonia")
         .and_then(|o| o.amount)
         .unwrap_or(0.0);
 
-    let import_no = data.transfer_map.clone()
+    let import_no = data
+        .transfer_map
+        .clone()
         .into_iter()
         .find(|o| o.id == "Norway")
         .and_then(|o| o.amount)
         .unwrap_or(0.0);
- 
+
     sqlx::query::<Sqlite>(INSERT_DATA_QUERY)
         .bind(data.production)
         .bind(data.consumption)
@@ -129,4 +137,3 @@ async fn main() -> Result<(), AppError> {
 
     Ok(())
 }
-

@@ -1,7 +1,8 @@
 use phf::phf_map;
 
 pub const FINGRID_ENV_PATH: &'static str = "/home/sirlarion/repos/miniprojects/fingrid-data/";
-pub const FINGRID_DATA_URL: &'static str = "https://www.fingrid.fi/api/graph/power-system-state?language=fi";
+pub const FINGRID_DATA_URL: &'static str =
+    "https://www.fingrid.fi/api/graph/power-system-state?language=fi";
 
 pub const TABLE_QUERY: &'static str = "
     CREATE TABLE IF NOT EXISTS fingrid_data (
@@ -46,10 +47,10 @@ pub const INSERT_DATA_QUERY: &'static str = "
 pub const FINGRID_BASE_URL: &'static str = "https://data.fingrid.fi/api/datasets/";
 
 pub const API_IDS: phf::Map<&'static str, u32> = phf_map! {
-    "total" => 192, 
-    "consumption" => 193, 
-    "hydro" => 191, 
-    "wind" => 181, 
+    "total" => 192,
+    "consumption" => 193,
+    "hydro" => 191,
+    "wind" => 181,
     "nuclear" => 188,
     "solar" => 248,
     "district_heating" => 201,
