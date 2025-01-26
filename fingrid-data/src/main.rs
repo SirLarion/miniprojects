@@ -90,6 +90,8 @@ async fn main() -> Result<(), AppError> {
         .text()
         .await?;
 
+    println!("{:?}", res);
+
     let data = serde_json::from_str::<ApiData>(res.as_str())?;
 
     let import_se = data

@@ -1,8 +1,8 @@
 use phf::phf_map;
 
-pub const FINGRID_ENV_PATH: &'static str = "/home/sirlarion/repos/miniprojects/fingrid-data/";
+pub const FINGRID_ENV_PATH: &'static str = "/home/larion/repos/miniprojects/fingrid-data/";
 pub const FINGRID_DATA_URL: &'static str =
-    "https://www.fingrid.fi/api/graph/power-system-state?language=fi";
+    "https://www.fingrid.fi/api/graph/power-system-state?language=fi&start=2024-10-19&end=2024-10-20";
 
 pub const TABLE_QUERY: &'static str = "
     CREATE TABLE IF NOT EXISTS fingrid_data (
